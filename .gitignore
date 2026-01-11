@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.vscode/
+.idea/
+
+# Build / cache
+build/
+dist/
+*.egg-info/
+
+# Images / outputs
+*.png
+*.jpg
+*.jpeg
